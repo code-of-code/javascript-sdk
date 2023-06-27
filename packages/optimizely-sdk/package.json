@@ -47,7 +47,7 @@
     "uuid": "^8.3.2"
   },
   "devDependencies": {
-    "@react-native-async-storage/async-storage": "^1.2.0",
+    "@react-native-async-storage/async-storage": "^1.18.2",
     "@react-native-community/netinfo": "^5.9.10",
     "@rollup/plugin-commonjs": "^11.0.2",
     "@rollup/plugin-node-resolve": "^7.1.1",
